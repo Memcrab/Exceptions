@@ -1,5 +1,5 @@
 <?php
 declare (strict_types = 1);
-namespace memCrab\Exceptions;
+namespace Memcrab\Exceptions;
 
 class AccessException extends \Exception {}
